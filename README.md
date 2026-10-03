@@ -4,7 +4,7 @@ Lascia che sia il computer a gestire tutte quelle informazioni in più come il c
 L'applicazione è distribuita in formato JAR e in formato eseguibile per Windows-x64 e Linux-x64.
 E' possibile avviare l'applicazione in formato JAR senza l'eseguibile scaricando e installando Java 21.
 
-QUESTA REPOSITORY E' USATA COME BACKUP PER IL DOWNLOAD DELLE RELEASE.
-
 # Launcher
-È consigliato utilizzare questa applicazione attraverso l'[ItalianDudes Launcher](https://gitlab.italiandudes.dev/ItalianDudes/ID_Launcher).
+È consigliato utilizzare questa applicazione attraverso l'[ItalianDudes Launcher](https://github.com/ItalianDudes/ID_Launcher).
+
+QUESTA REPOSITORY E' USATA COME BACKUP PER IL DOWNLOAD DELLE RELEASE.
