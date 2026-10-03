@@ -1,7 +1,8 @@
 # CPRED Visualizer
 Un applicazione usata per gestire le schede e le campagne di Cyberpunk RED in maniera più facile e confortevole.
 Lascia che sia il computer a gestire tutte quelle informazioni in più come il calcolo delle statistiche, peso ecc.
-L'applicazione richiede Java 21
+L'applicazione è distribuita in formato JAR e in formato eseguibile per Windows-x64 e Linux-x64.
+E' possibile avviare l'applicazione in formato JAR senza l'eseguibile scaricando e installando Java 21.
 
 QUESTA REPOSITORY E' USATA COME BACKUP PER IL DOWNLOAD DELLE RELEASE.
 
